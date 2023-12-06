@@ -38,3 +38,15 @@ k -n monitoring get secret # certificates, user & pass
 
 k -n monitoring get crd # probes, etc.
 ```
+
+## Inspecting Prometheus Stack
+- [Containers running Prometheus in a statefulSet - including prometheus rules, configuration reloader, etc.](https://github.com/chadmcrowell/prometheus/blob/922e5446487b861b1e6f1fd6dc89c2f2f3048030/prom.yaml#L52C2-L52C2)
+- 
+
+
+## Add Alert Rules to Prometheus
+
+
+
+
+## Change Prometheus Configuration
