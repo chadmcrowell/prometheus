@@ -41,7 +41,7 @@ k -n monitoring get crd # probes, etc.
 
 ## Inspecting Prometheus Stack
 - [Containers running Prometheus in a statefulSet - including prometheus rules, configuration reloader, etc.](https://github.com/chadmcrowell/prometheus/blob/922e5446487b861b1e6f1fd6dc89c2f2f3048030/prom.yaml#L52C2-L52C2)
-- 
+- [Alertmanager Container - which contains the configuration for alerts](https://github.com/chadmcrowell/prometheus/blob/9399433e5039140e736e56954d71ab5df0b0b7a8/alertmanager.yaml#L47)
 
 
 ## Add Alert Rules to Prometheus
